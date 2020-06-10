@@ -6,6 +6,13 @@
 \usage{
 lm1(formula, data, freqs)
 }
+\arguments{
+\item{formula}{formula}
+
+\item{data}{dataframe}
+
+\item{freqs}{double}
+}
 \description{
 estimate the regression estimates based on given the number of repetitions
 }

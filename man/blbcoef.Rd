@@ -2,10 +2,13 @@
 % Please edit documentation in R/blblm.R
 \name{blbcoef}
 \alias{blbcoef}
-\title{compute the coefficients from fit}
+\title{compute the coefficients from object}
 \usage{
-blbcoef(fit)
+blbcoef(object)
+}
+\arguments{
+\item{object}{blblm object}
 }
 \description{
-compute the coefficients from fit
+compute the coefficients from object
 }

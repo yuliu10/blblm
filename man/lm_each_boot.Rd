@@ -6,6 +6,13 @@
 \usage{
 lm_each_boot(formula, data, n)
 }
+\arguments{
+\item{formula}{formula}
+
+\item{data}{dataframe}
+
+\item{n}{interger}
+}
 \description{
 compute the regression estimates for a blb dataset
 }

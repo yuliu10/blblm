@@ -6,6 +6,15 @@
 \usage{
 lm_each_subsample(formula, data, n, B)
 }
+\arguments{
+\item{formula}{formula}
+
+\item{data}{dataframe}
+
+\item{n}{interger}
+
+\item{B}{interger}
+}
 \description{
 compute the estimates
 }
